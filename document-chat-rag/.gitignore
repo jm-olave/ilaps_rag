@@ -45,3 +45,18 @@ wheels/
 # Log files
 *.log
 logs/
+
+# Word files
+*.doc
+*.docx
+*.dot
+*.dotx
+
+# Excel files
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+*.xlt
+*.xltx
+*.xltm
