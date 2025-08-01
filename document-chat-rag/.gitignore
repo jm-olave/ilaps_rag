@@ -63,3 +63,11 @@ logs/
 
 # PDF files
 *.pdf
+
+# PowerPoint files
+*.ppt
+*.pptx
+*.pot
+*.potx
+*.pps
+*.ppsx
