@@ -1,0 +1,13 @@
+chunking:
+  max_chunk_size: 1000
+  overlap: 200
+  preserve_structure: true
+
+embedding:
+  model: "text-embedding-ada-002"
+  batch_size: 100
+  dimensions: 1536
+
+retrieval:
+  similarity_threshold: 0.7
+  max_results: 10

@@ -47,6 +47,7 @@ document-chat-rag/
 │   ├── processed/                   # Processed chunks
 │   └── excel/                       # Excel files with PDF links
 ├── config/
+
 │   ├── database.yaml               # Database configuration
 │   └── processing.yaml             # Processing parameters
 ├── tests/

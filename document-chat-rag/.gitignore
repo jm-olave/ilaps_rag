@@ -60,3 +60,6 @@ logs/
 *.xlt
 *.xltx
 *.xltm
+
+# PDF files
+*.pdf
